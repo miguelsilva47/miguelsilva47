@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 💙
 
-Meu nome é Miguel das silva 
+Meu nome é Miguel da Silva 
 
 - estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
